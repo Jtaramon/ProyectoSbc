@@ -1,0 +1,922 @@
+﻿id_author;fisrtName;lastName
+1;Rainer;Duchmann
+2;Nissar;Reshi
+3;Divya;Dubey
+4;Najeeb;Ullah
+5;Mohammed Kamran;Aslam
+6;Mohammed Kamran;Aslam
+7;Evgeny;Soloviov
+8;Alexander;Danilov
+9;Manit;Malhotra
+10;Mohammed Naveed ul;haq
+11;Neha;Keral
+12;Manmohan;M.S
+13;Sikender Mohsienuddin;Mohammad
+14;Sunusi;Dalha
+15;Ibrahim;Babangida
+16;Nishchha;a
+17;Margarita N;Favorskaya
+18;Angelina;N. Zhukovskaya
+19;Debprasad;Dutta
+20;Hessa Al;Kaabi
+21;Harinath;P
+22;Brian I.;Rini
+23;Rahul Reddy;Nadikattu
+24;Syed;Baker
+25;Komal Kumar;J
+26;Santanu;De
+27;Krzysztof J.;Filipiak
+28;Sanjay;K. Rohaun
+29;Cheepsattayakorn;A
+30;Priyanka;Bhowmik
+31;Flood;Colleen
+32;Thomas;Bryan
+33;Knight;Dean
+34;Jiménez;Guillermo
+35;Mattsson;Titti
+36;Nordberg;Ana
+37;Axmin;Martina
+38;Krstic;Ivana
+39;Davinic;Marko
+40;King;Jeff
+41;Byrom;Natalie
+42;Chambas;Estelle
+43;Perroud;Thomas
+44;Villarreal;Pedro A
+45;S S;Jha
+46;S S;Jha
+47;Catherine E;Urch
+48;Andrew J T;George
+49;Shu-Kun;Lin
+50;Franck;Vazquez
+51;Houda;Filali
+52;Youness;Kadil
+53;Geetha;M
+54;Seshadri;LN
+55;Deborah;Lupton
+56;Karen;Willis
+57;Marina;Latukha
+58;Joanne;Binette
+59;Fitri;Rinaldi
+60;Kenneth;Okereafor
+61;Pravin;Amin
+62;Sarp;Kurgan
+63;J. Michael;Ryan
+64;Mariah;Miller
+65;Ahmed;Kalebi
+66;Deborah;Lupton
+67;Guglielmo Actis;Dato
+68;Abraham;Varghese
+69;Shajidmon;Kolamban
+70;Vinu;Sherimon
+71;Eduardo M.;Lacap
+72;Saad Salman;Ahmed
+73;Jagath Prasad;Sreedhar
+74;Hasina;Al Harthi
+75;Huda Salim;Al Shuaily
+76;Dr Anil;Kumar
+77;Arka Prava;Mukherjee
+78;Arka Prava;Mukherjee
+79;Chris;Jones
+80;Ratna Mani;Nepal
+81;Tapas Kumar;Koley
+82;Monika;Dhole
+83;Sandeep;Kumar
+84;Elisa;Perego
+85;Felicity;Callard
+86;Mina;Kelleni
+87;Vinita;Chittoor-Vinod
+88;Marin A.;Marinov
+89;Syed;Baker
+90;Rahul Reddy;Nadikattu
+91;Richard J.;Barohn
+92;Ali Mehrabi;Tavana
+93;Mohamadkarim;Bahadori
+94;Kevin;Roe
+95;Abi;Rimmer
+96;Arthur;Caplan
+97;Annya;Bruce
+98;DALLA VILLA;P.
+99;Francisco Javier;Matia Portilla
+100;José Carlos Lopes;Martins
+101;Saishiv;Adithya
+102;Koyeli;Girigoswami
+103;Naina Mohamed Pakkir;Maideen
+104;Vikram;Rao
+105;Subrat Kumar;Bhattamisra
+106;Jie-Ming;Qu
+107;Bin;Cao
+108;Rong-Chang;Chen
+109;Jie-Ming;Qu
+110;Bin;Cao
+111;Rong-Chang;Chen
+112;Jie-Ming;Qu
+113;Bin;Cao
+114;Rong-Chang;Chen
+115;Jie-Ming;Qu
+116;Bin;Cao
+117;Rong-Chang;Chen
+118;Jie-Ming;Qu
+119;Bin;Cao
+120;Rong-Chang;Chen
+121;Kenneth;Okereafor
+122;Nikhil;Srivastava
+123;Gyaneshwer;Chaubey
+124;Vikas;Sharma
+125;Ezequiel;Alvarez
+126;Franco;Marsico
+127;Farhan Rahman;Chowdhury
+128;Tofazzal;Islam
+129;Shreyas;Mishra
+130;Ernesto Tapia;Moore
+131;Marian;Gorynia
+132;Sophie;Nivoix
+133;Serge;Rey
+134;Gaurav;Dhiman
+135;Aram;Ter-Sarkisov
+136;Joanne;Binette
+137;Stephanie;Firestone
+138;Madhusudana;P
+139;Kabunga;Amir
+140;Aram;Ter-Sarkisov
+141;Najmoddin;Yazdi
+142;Ali;Marvi
+143;Ali;Maleki
+144;Kenneth;Okereafor
+145;Kenneth;Okereafor
+146;Basanta;Bhowmik
+147;Andrew;Conway Morris
+148;Allison;Tong
+149;Ahmed Reda;Taha
+150;Natalia Largaespada;Beer
+151;Lorna;Pérez
+152;Kapil;Zirpe
+153;Sushma;Gurav
+154;María Cruz Martín;Delgado
+155;Patxi Pérez;Fernández
+156;Miguel Moreno;Aríztegui
+157;Erwin;Calgua
+158;Obashina;Ogunbiyi
+159;Habibur;Rahman
+160;Tapas Kumar;Koley
+161;Monika;Dhole
+162;Colin;Tyler
+163;Changgang;Guo
+164;Wenhao;Fan
+165;Nina;Callaghan
+166;Mark;Swilling
+167;Merin;Jacob
+168;Luciano;d’Andrea
+169;Andrea;Declich
+170;Kai M.;Thaler
+171;Jeanine;Condo
+172;Edson;Rwagasore
+173;Habibul;Khondker
+174;Hyug Baeg;Im
+175;Serena;Nanda
+176;Eren;Duzgun
+177;J. Michael;Ryan
+178;Nazneen;Kane
+179;Andréa;Venerabile
+180;Nidhi;Jyotsana
+181;Chantana;Wun’Gaeo
+182;Surichai;Wun’Gaeo
+183;Roberto Zurbano;Torres
+184;N.C.;Narayanan
+185;Prabhir Vishnu;Poruthiyil
+186;Ali Asghar;Mosleh
+187;Abbas;Jong
+188;Markus S.;Schulz
+189;Jan Nederveen;Pieterse
+190;Adalberto;Cardoso
+191;Thiago;Peres
+192;Frank;Fanselow
+193;Rebecca;Meckelburg
+194;Charanpal S.;Bal
+195;Sakthi Jaya Sundar;Rajasekar
+196;Abhinav;Sagar
+197;Jesse;Lambert
+198;Jason;Chatfield
+199;Elisabeth;Mahase
+200;Dr Simon;Hudson
+201;Shikha;Tyagi
+202;Marcelo;Moreno
+203;Fernando Portela;Câmara
+204;Fernando Portela;Câmara
+205;Marcelo;Moreno
+206;Maíra Rodrigues da Costa;Teixeira
+207;Roberta Dantas;Ribeiro
+208;Andreia Ribas;Precoma
+209;Juana Aracely Larios;Méndez
+210;Martje de;Roos
+211;Sandra Lucía Tovar;Reyes
+212;Laura Fiorella Mas;Ortiz
+213;Camilla Martins dos Santos;Benevides
+214;Daniela;Lariccia
+215;Nina Bastos;Dourado
+216;Benjamen;Huber
+217;Abdulah;Haikal
+218;Domenico;Gatti
+219;Hamid;Soltanian-Zadeh
+220;N.;Abdelwahab
+221;T.;Schmidt
+222;N.E.;Ingraham
+223;D.M.;Macdonald
+224;C.A.;Bruen
+225;Nelkem Jeannette;Londadjim
+226;Álex;Escolà-Gascón
+227;Francesc-Xavier;Marín
+228;Jordi;Rusiñol
+229;Josep;Gallifa
+230;R;Arbind Kumar Choudhary
+231;L;Madhan
+232;R;Mani
+233;Isaac;Christians Moses
+234;SV;Poyarkov
+235;VV;Makarov
+236;SA;Kraevoy
+237;SM;Yudin
+238;Tracey;Lauriault
+239;Syrine Ben;Romdhane
+240;Matan;Elkan
+241;Ayana;Dvir
+242;Ronit;Zaidenstein
+243;Maly;Keller
+244;Dana;Kagansky
+245;Chen;Hochman
+246;Ronit;Koren
+247;Marcia;Albert
+248;K.;Zacharowski
+249;Joseph R.;Hageman
+250;Elena;Ortona
+251;Danilo;Buonsenso
+252;Angelo;Carfi
+253;Walter;Malorni
+254;Satyabrata;Kundu
+255;Shamsher;Singh
+256;Amit;Dang
+257;Dimple;Dang
+258;Pawan;Rane
+259;Barbara;Resnick
+260;Sheryl;Zimmerman
+261;Saverio;Bettuzzi
+262;Luigi;Gabba
+263;Simona;Cataldo
+264;Abdul Mannan;Baig
+265;Murat;Yıldırım
+266;Fatma;Solmaz
+267;Sara L.;McLafferty
+268;Aida;Guhlincozzi
+269;Fikriyah;Winata
+270;ScienceOpen;Admin
+271;ScienceOpen;Admin
+272;ScienceOpen;Admin
+273;ScienceOpen;Admin
+274;Linda;Kenney
+275;Huili;Zhu
+276;Fausto;Passariello
+277;ScienceOpen;Admin
+278;ScienceOpen;Admin
+279;Syed;Baker
+280;Olga;Perianova
+281;Satish;S
+282;Nagendra Prasad;M.N
+283;Elena;Saveleva
+284;Rukosueva;Tatiana
+285;Harini;B.P
+286;Raghuraj Singh;Chauhan
+287;Khokhlova;Olga
+288;Anna;Savitskaya
+289;Potkina;Nadezhda
+290;Hemanth;Kumar
+291;Syed;Baker
+292;Naveena;M
+293;Satish;S
+294;Syed;Baker
+295;Raghuraj Singh;Chauhan
+296;Satish;S
+297;Nagendra Prasad;M.N
+298;Shravan;KR
+299;Yoonho;Lee
+300;Sungpil;Yook
+301;Anand;Lodhi
+302;Златогор;Минчев
+303;Zlatogor;Minchev
+304;César;Fernández-de-las-Peñas
+305;Domingo;Palacios-Ceña
+306;Víctor;Gómez-Mayordomo
+307;María L.;Cuadrado
+308;Lidiane L.;Florencio
+309;Sorush;Niknamian
+310;Holmøyvik;Eirik
+311;Høgberg;Benedikte Moltumyr
+312;Eriksen;Christoffer Conrad
+313;Kruger;Petronell
+314;Moyo;Khulekani
+315;Mudau;Paul
+316;Pieterse;Marius
+317;Spies;Amanda
+318;Matteucci;Stefano Civitarese
+319;Pioggia;Alessandra
+320;Repetto;Giorgio
+321;Tega;Diletta
+322;Pignataro;Micol
+323;Celepija;Mirush
+324;Ferraz;Octávio Luiz Motta
+325;Rached;Danielle
+326;Ventura;Deisy
+327;Hubner Mendes;Conrado
+328;Moraes Alberto;Marco Antônio
+329;Slautsky;Emmanuel
+330;Bouhon;Frédéric
+331;Lanssens;Camille
+332;Jousten;Andy
+333;Miny;Xavier
+334;Utrilla;Dolores
+335;García-Muñoz;Manuel Antonio
+336;Sánchez;Teresa Pareja
+337;Kaiser;Anna-Bettina
+338;Hensel;Roman
+339;Thomson;Stephen
+340;Ip;Eric C
+341;Albin;Einat
+342;Bar-Siman-Tov;Ittai
+343;Gross;Aeyal
+344;Hostovsky-Brandes;Tamar
+345;Pierre;Ménager
+346;Olivier;Brière
+347;Jennifer;Gautier
+348;Jérémie;Riou
+349;Guillaume;Sacco
+350;Antoine;Brangier
+351;Cédric;Annweiler
+352;on behalf of the;GERIA-COVID study group
+353;Saad Sabet Jaber;Alatrany
+354;R H;Khonsari
+355;M;Bernaux
+356;J -J;Vie
+357;A;Diallo
+358;N;Paris
+359;L B;Luong
+360;J;Assouad
+361;C;Paugam
+362;T;Simon
+363;E;Vicaut
+364;R;Nizard
+365;E;Vibert
+366;Roaa;Jamjoom
+367;Awaad;K. Al Sarkhi
+368;Duygu;Koyuncu Irmak
+369;Erdal;Karaoz
+370;Nurbanu Mnazhitovna;Omarova
+371;Zoia Salikhovna;Gelmanova
+372;Siti;Nabila
+373;NA;Timothy Snyder
+374;Oktav;Bosnalı
+375;Burak;Tander
+376;Krishnaveni;V.D.
+377;Antonio;Spinelli
+378;Gabriela;Boshnakova
+379;Egi;Setiawan
+380;Ilham;Abdillah
+381;Ushma;Purohit
+382;Mike;Fralick
+383;Ashu;Chaudhary
+384;Christopher;Mouton
+385;Adam;Grissom
+386;John;Godges
+387;Russell;Hanson
+388;Adam;Grissom
+389;Christopher;Mouton
+390;John;Godges
+391;Russell;Hanson
+392;Sanket;Vakte
+393;Yunus;ALTUNDAĞ
+394;Ajoy;Basak
+395;Jaishree;Vaijanathappa
+396;Sarmistha;Basak
+397;Ingrith Cândida de;Brito
+398;Anderson Silva de;Oliveira
+399;Beatriz Pereira;Cunha
+400;Elisabeth Oliveira de;Araújo
+401;Giulia;Monticone
+402;Alistair;Ramsay
+403;Lucio;Miele
+404;Ovidiu;Hanc
+405;Christoph;STUECKELBERGER
+406;Cosmin-Tudor;CIOCAN
+407;Euphemia;Bonnitcha
+408;Fiona Joy;Green
+409;Tracey;Farrington
+410;Kate;Orton-Johnson
+411;Catherine;Moeller
+412;Waheed;Ullah
+413;Abid;Yahya
+414;Ravi;Samikannu
+415;Taolo;Tlale
+416;Chandranath;Adak
+417;Debmitra;Ghosh
+418;Ranjana Roy;Chowdhury
+419;Soumi;Chattopadhyay
+420;Rohit;Salgotra
+421;Amir H.;Gandomi
+422;H.S.;Hota
+423;Richa;Handa
+424;A.K.;Shrivas
+425;Deepak;Painuli
+426;Divya;Mishra
+427;Suyash;Bhardwaj
+428;Mayank;Aggarwal
+429;Ijegwa David;Acheme
+430;Olufunke Rebecca;Vincent
+431;Enis;Karaarslan
+432;Doğan;Aydın
+433;Gerard;McCann
+434;Chrispin;Matenga
+435;Mohammad;Yavari
+436;Barry;Cannon
+437;L.;Kuladeep Kumar
+438;Bruno;Barbosa Sousa
+439;Mike;Hough
+440;Zhiwen;Hu
+441;Zhongliang;Yang
+442;Qi;Li
+443;An;Zhang
+444;Yongfeng;Huang
+445;Zhiwen;Hu
+446;Zhongliang;Yang
+447;Qi;Li
+448;An;Zhang
+449;Yongfeng;Huang
+450;Tsutomu;Watanabe
+451;Yuki;Omori
+452;Vitalina;Babenko
+453;Maryna;Nehrey
+454;Mayank Gyan;Vats
+455;Deepa;Khandelwal
+456;Fatwah;Solihah
+457;Yelena;Kalyuzhnova
+458;Julian;Lee
+459;Naeema;Pasha
+460;Adrian;Palmer
+461;Stefano;Ramelli
+462;Alexander F.;Wagner
+463;Charles;Sutcliffe
+464;J. James;Reade
+465;Carl;Singleton
+466;Cameron;Blazoski
+467;Michael;Baram
+468;Hitoshi;Hirose
+469;Vijay;Kumar
+470;Dilbag;Singh
+471;Manjit;Kaur
+472;F;Docobo Durantez
+473;A.S.;Abramyan
+474;Rana;Mazumder
+475;Subhabrota;Majumdar
+476;Veer;Singh
+477;Vishal;Mishra
+478;Atish K.;Maldhure
+479;Harshita;Gupta
+480;Suresh;Kumar
+481;Perumal;Nagarajan
+482;Serdar;EK
+483;Hatice;İLHANLI
+484;Selver;ÖZÖZEN KAHRAMAN
+485;Banu;KUMBASAR
+486;Simon I;Hay
+487;Kenneth;Njiri
+488;Surabhi;Gautam
+489;Rima;Dada
+490;Rebecca;Cannon
+491;Satyajit;Das
+492;Jacqui;Wise
+493;M.;Dúbrava
+494;J.;Jánošiová
+495;A.;Koščálová
+496;J. Šuba;ml.
+497;R.;Hatala
+498;Radyslava;Shevchenko-Perepolkina
+499;Sangeun;Lee
+500;Juan;Huamán-Saavedra
+501;J;Varela Recio
+502;Wang Hwi;Lee
+503;Jandrei;Markus
+504;Stefan;Kirchner
+505;Tafirenyika;Mafugu
+506;Humphrey;Simukoko
+507;Ikeoluwapo;Baruwa
+508;Oluwatosin F.;Aluko
+509;Samuel A.;Obajowo
+510;Elisabeth;Mahase
+511;A.;FARO
+512;K.;SOUSA
+513;Jeremy;Horwood
+514;Melanie;Chalder
+515;Abdullaev;R.Ju.
+516;Komissarova;O.G.
+517;Helen;Ho
+518;Jinkinson;Smith
+519;David;Cotacachi
+520;Ana;Grigera
+521;Pratibha;Auti
+522;Sagar;Kothawade
+523;Anagha;Soundankar
+524;Vinayak;Kumbhar
+525;Diane;Baylis
+526;Cherie;Chiu
+527;Panagiotis;Tsibouris
+528;Evonne;Curran
+529;Manjula;Meda
+530;Luke;Moore
+531;Kate;Templeton
+532;Mehmet;Balcılar
+533;Jose Miguel;García Sagredo
+534;Jonathan;White
+535;Jadi Sampurna;Lima
+536;Z.;Muzaffarr
+537;Dena;Bravata
+538;Jonathan;Cantor
+539;Neeraj;Sood
+540;Christopher;Whaley
+541;S.;Patel
+542;F.;Patel
+543;Courtney;Tan
+544;Timothy;Fraser
+545;Tuba;Öz
+546;Melek;Pehlivan
+547;İbrahim;Pirim
+548;Chandra;Mohan
+549;Vinod;Kumar
+550;Surabhi;Gautam
+551;Rima;Dada
+552;Mrunali;Patil
+553;Tosh;Patil
+554;Iti;Garg
+555;Swati;Srivastava
+556;Bhuvnesh;Kumar
+557;Howard;Stein
+558;Olawale Emmanuel;Olayide
+559;Giovanni;Farese
+560;Felicitas;Holzer
+561;Thomas;Pogge
+562;Stephen;McCloskey
+563;Su-ming;Khoo
+564;Brianna;Guidorzi
+565;Richard;Breen
+566;John;Ermisch
+567;Didi;Wamukoya
+568;Nyawira;Muraguri
+569;Margaret;LoWilla
+570;David;Coggon
+571;Peter;Croft
+572;Paul;Cullinan
+573;Anthony;Williams
+574;Manjunatha;Channegowda
+575;Iksan;Ahadin
+576;Zhiwen;Hu
+577;Zhongliang;Yang
+578;Qi;Li
+579;An;Zhang
+580;Yongfeng;Huang
+581;Yehong;Zhou
+582;Junjie;Zhang
+583;Wenwen;Wu
+584;Man;Liang
+585;Qiangsong;Wu
+586;Danny;Quah
+587;Ceylan;­POLAT
+588;Humberto;Ferraz
+589;Ashif;Iqubal
+590;Farazul;Hoda
+591;Abul Kalam;Najmi
+592;Syed Ehtaishamul;Haque
+593;Nikki;Nabavi
+594;Ahmed Samy;Elsaid
+595;Iman Samy;Elsaid
+596;Julius;Špičák
+597;Gabriel;Rada
+598;Javiera;Corbalán
+599;Patricio;Rojas
+600;Nydia;Remolina
+601;Abhrajit;Bag
+602;Arijit;Bag
+603;Abhrajit;Bag
+604;Arijit;Bag
+605;Samir;PATRA
+606;Sherif;Mohamed
+607;Khaled;Saad
+608;Ghada;Elgohary
+609;Azza;AbdElHaffez
+610;Nashwa Abd;El-Aziz
+611;Santhosh;Arul
+612;Haripriya;Dayalan
+613;KhP;Takhchidi
+614;NKh;Takhchidi
+615;MKh;Movsesian
+616;aquilino;antunes
+617;Ansuk;Jeong
+618;Santiago;Alcázar
+619;Cristina;Schneider
+620;Marilia Santini de;Oliveira
+621;Cláudia;Hoirisch
+622;Santiago;Alcázar
+623;Melda;Türken
+624;Şükran;Köse
+625;Didem;Çelik
+626;Şükran;Köse
+627;Sabri;Atalay
+628;Gürsel;Ersan
+629;Jéssica;Silva
+630;Larissa;Batista
+631;Nouar;Qutob
+632;Faisal;Awartani
+633;Joseph S;Ross
+634;Joel;Best
+635;Brianna;Guidorzi
+636;Lee;Humber
+637;Felicitas;Holzer
+638;Thomas;Pogge
+639;Sarah;Banks
+640;Richard;Barohn
+641;Abanoub;Riad
+642;Yi;Huang
+643;Liping;Zheng
+644;Steriani;Elavsky
+645;Burhan;KILIÇ
+646;Hakan;ASLAN
+647;Mete;GÖVCE
+648;desna rura;sarapang
+649;Marcos;Alonso Fernández
+650;Emine;KINIK
+651;Handan;ÖZCAN
+652;Elisabeth;Mahase
+653;İlke;Karayel Hacıoğlu
+654;Cesar;Cuero
+655;Haraldur;Briem
+656;Abhishek Kumar;Soni
+657;Dan V.;Nicolau
+658;Alexander;Hasson
+659;JM;Suárez Grau
+660;S S;Jha
+661;Helen;Ho
+662;Helen;Ho
+663;Jalal;Hanaee
+664;Mohammad Reza;Rashidi
+665;Ozgur;Karcioglu
+666;Selman;Yeniocak
+667;Mandana;Hosseinzadeh
+668;Ozgur;Karcioglu
+669;Selman;Yeniocak
+670;Mandana;Hosseinzadeh
+671;Ozgur;Karcioglu
+672;Selman;Yeniocak
+673;Mandana;Hosseinzadeh
+674;Ozgur;Karcioglu
+675;Selman;Yeniocak
+676;Mandana;Hosseinzadeh
+677;Francois;Brouard
+678;Christelle;Paré
+679;Ratika;Samtani
+680;Kabir;Krishna
+681;Fábio Marcon;Alfieri
+682;IqbalNabi;Qureshi
+683;Arthur Maia;Paiva
+684;Luiz Ricardo;Berbert
+685;Klaysa;Moreira-Ramos
+686;Marceli;Nazário
+687;Fernanda;Sônego
+688;Richarles;Carvalho
+689;Gladir;Cabral
+690;Weslei;Silva
+691;Susana;Sánchez Ferro
+692;Viviane;Candiotto
+693;Gladir;Cabral
+694;Fernando;Pereira
+695;Jéssica;Silva
+696;Geiziane;Morais
+697;Daiane;Réus
+698;Andréia;Bartolomeu
+699;Jamine;Bernieri
+700;Anderson;Cristiano
+701;Neiva;Hoepers
+702;Susana;Pavei
+703;Leila;Gonçalves
+704;Elenice;Engel
+705;Andrew John;PENDERY
+706;Ayush;Yadav
+707;David;Neilipovitz
+708;Sambhaji;Govind Chintale
+709;Alfi Miftachul;Firdaus
+710;Moses Glorino Rumambo;Pandin
+711;Engy;Ziedan
+712;Kosali;Simon
+713;Coady;Wing
+714;Debjyoti;Talukdar
+715;Diane;Ignacio
+716;Madan Mohan;Gupta
+717;Olena;Prutska
+718;Adam;Sybilski
+719;Luis Ángel;Rodríguez-Chávez
+720;Juan Jorge;Huamán-Saavedra
+721;Mary L.;Rosser
+722;Zulfatul;Azkia
+723;ED;Mozgovoy
+724;YuD;Udalov
+725;MV;Ochkolias
+726;Ninette;Rothmüller
+727;Nasim;Aslani
+728;Ali;Garavand
+729;Balázs;Péter
+730;Zhiwen;Hu
+731;Zhongliang;Yang
+732;Qi;Li
+733;An;Zhang
+734;Yongfeng;Huang
+735;Kelly;Kingsly
+736;Marilene;Santos
+737;Febrian;Hadi
+738;Clare;Dyer
+739;Zahid;Dar
+740;Lucky;Chauhan
+741;Monika;Chauhan
+742;Navpreet;Kaur
+743;Tanzeer;Kaur
+744;Neelima;Dhingra
+745;JOSÉ MANUEL CANALES;ALIENDE
+746;PASQUALE;SOFIA
+747;Sara;Giovine
+748;María Belén;Corredores Ledesma
+749;Ana Karen;Poveda Bustillos
+750;Saima;Habeeb
+751;Manju;Chugani
+752;Ishdeep;Kaur
+753;Morici;Stefania
+754;Beatriz;Ramos-Lacuey
+755;Laura;Moreno-Galarraga
+756;Damaris;Venâncio
+757;Steven Peter;Treon
+758;Lisa;Richardson
+759;Peter;Achterberg
+760;Nadiya;Vasyl’tsiv
+761;Mylene Icamina;Maravilla
+762;Miranji;Katta
+763;Satish;Rapaka
+764;Ramkumar;Adireddi
+765;Jagadeeshwara Rao;Emandi
+766;Tansukh;Barupal
+767;Praveen Kumar;Tak
+768;Mukesh;Meena
+769;Alessia;Catalano
+770;Rajagopal;Kalirajan
+771;Alex Y.;Strongin
+772;Alex;Sloutsky
+773;Piotr;Cieplak
+774;Tinsae;Kebede
+775;Dharmendra;Kumar
+776;Pramod Kumar;Sharma
+777;Jaiswal;AK
+778;Dinah V.;Parums
+779;Burçin;Yersel
+780;Neha;Mishra
+781;Ritu;Sharma
+782;Jacqui;Wise
+783;Erico;Hammes
+784;Anna;Harvey
+785;Orly;Avitzur
+786;Gursharan;Kaur
+787;Amandeep;Singh
+788;Raj Kumar;Narang
+789;Gurmeet;Singh
+790;Sumanta;Dey
+791;Anindita;Dey
+792;Shreyans;Chatterjee
+793;Papiya;Nandy
+794;Ashesh;Nandy
+795;Jorge;Oscanoa
+796;Lavanya;Sivapalan
+797;Maryam;Abdollahyan
+798;Emanuela;Gadaleta
+799;Claude;Chelala
+800;Maureen;Benson-Rea
+801;Ljiljana;Erakovic
+802;Susan Mary;Watson
+803;Joel;Best
+804;Panagiotis;Lymperopoulos
+805;Haoling;Qiu
+806;Bonan;Min
+807;Ayman A;Mohamed
+808;Motaz;Alawna
+809;Fadi;Al-Turjman
+810;Majdi;Nassif
+811;Adedoyin A.;Hussain
+812;Fadi;Al-Turjman
+813;Deepanshu;Srivastava
+814;S.;Rakeshkumar
+815;N.;Gayathri
+816;Fadi;Al-Turjman
+817;Alfredo;Pinzón-Junca
+818;Paloma;Biglino Campos
+819;A.S.;Kolbin
+820;Anna;Mastromarino
+821;Sidnei;Ferreira
+822;William;Mattingly
+823;Azhagu Madhavan;S
+824;Vinotha;P
+825;Uma;V
+826;Ganesan;S
+827;Senthil;J
+828;Meltem;Uğurlu
+829;Gülşen;Takak Vural
+830;F. L. Z.;COLTRO
+831;C. A.;LUCENA
+832;M.L.A.S.;LUCENA
+833;S. P.;MORAIS
+834;COVID-UPO Clinical;Team
+835;Pier Paolo;Sainaghi
+836;Kuldeep;Singh
+837;Dilpreet;Singh
+838;Karan;Razdan
+839;Cynthia;Puddu
+840;Silvana;Martinez
+841;Su-ming;Khoo
+842;Raed;Amira
+843;Iain;Ferguson
+844;Rory;Truell
+845;George Abu;Mansaray
+846;Ninette;Rothmüller
+847;Kristy;Kelly
+848;Yasmin;Jessie Turton
+849;Linda;Harms-Smith
+850;Giovanni;Farese
+851;Dimitra-Dora;Teloni
+852;Gerard;McCann
+853;Chrispin;Matenga
+854;Michael;Lavalette
+855;Vasilios;Ioakimidis
+856;Iain;Ferguson
+857;Vasilios;Ioakimidis
+858;Stephen;McCloskey
+859;Fatima;Uygun
+860;Olawale Emmanuel;Olayide
+861;Patrick Onyango;Mangen
+862;Angela;Veale
+863;Barry;Cannon
+864;Gianinna Muñoz;Arce
+865;Roberta;Uchôa
+866;Sug Pyo;Kim
+867;Esme;Choonara
+868;Yuri;Prasad
+869;Nicos;Trimikliniotis
+870;Dawn Belkin;Martinez
+871;Howard;Stein
+872;Andrés Santiago;Toledo
+873;Nelly;Armas
+874;Rohini;Kanwar
+875;Amit;Kumar
+876;Jyoti;Rathee
+877;Surinder K.;Mehta
+878;Vicente;Vicente
+879;Murat;Yıldırım
+880;Ömer;Akgül
+881;Ekmel;Geçer
+882;Bruna;Bruno
+883;Marcia;Galvão
+884;Marilene;Santos
+885;Tiago;Faganello
+886;Fernanda;Peringer
+887;Tales;Barbosa
+888;Rodrigo;Scopel
+889;Gilberto;Stürmer
+890;Denise;Fincato
+891;Paulina;García Guerrero
+892;Guilherme;Fráguas Nobre
+893;Bernardo;Cartoni
+894;Andrio;Adwibowo
+895;FRANCIELE GUIMARãES DA;SILVA
+896;PATRíCIA PASQUALI;DOTTO
+897;Mário;Oliveira
+898;João;Paço
+899;Jee Yun;Kwon
+900;Ashu;Chaudhary
+901;Alexander;Chaitoff
+902;Silvana;Martinez
+903;Vasilios;Ioakimidis
+904;Rory;Truell
+905;Roberta;Uchôa
+906;Nicos;Trimikliniotis
+907;Michael;Lavalette
+908;Vasilios;Ioakimidis
+909;Iain;Ferguson
+910;Dawn Belkin;Martinez
+911;Sug Pyo;Kim
+912;Iain;Ferguson
+913;Yasmin Jessie;Turton
+914;Linda;Harms-Smith
+915;Lee;Humber
+916;Dimitra-Dora;Teloni
+917;George Abu;Mansaray
+918;Esme;Choonara
+919;Yuri;Prasad
+920;Raed;Amira
+921;Fatima;Uygun
